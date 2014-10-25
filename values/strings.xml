@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flag Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="settings_activity">Flag Quiz Settings</string>
+    <string name="number_of_choices">Number of Choices</string>
+    <string name="number_of_choices_description">Display 3, 6 or 9 guess buttons</string>
+    <string name="world_regions">Regions</string>
+    <string name="world_regions_description">Regions to include in the quiz</string>
+    <string name="guess_country">Guess the Country</string>
+    <string name="results">%1$d guesses, %2$.02f%% correct\n%3$d first guesses, %4$.02f%% first\nHigh Score:\n1. %5$d\n2. %6$d\n3. %7$d\n4. %8$d\n5. %9$d</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="default_region_message">Setting North America as the default region. One region must be selected.</string>
+    <string name="restarting_quiz">Quiz will restart with your new settings</string>
+    <string name="ok">OK</string>
+    <string name="question">Question %1$d of %2$d</string>
+    <string name="reset_quiz">Reset Quiz</string>
+    <string name="image_description">Image of the current flag in the quiz</string>
+    <string name="default_region">North_America</string>
+    <string name="score">Score: </string>
+    <string name="multi">Players</string>
+    <string name="multi_description">Number of Players</string>
+    <string name="next">Next Question</string>
+    <string name="mResults">Player 1: %1$d\nPlayer 2: %2$d\nPlayer %3$d Wins!</string>
+    <string name="mTie">Player 1: %1$d\nPlayer 2: %2$d\nTie!</string>
+    <string name="searchURL">http://en.wikipedia.org/wiki/</string>
+    <string name="link">Wiki page</string>
+
+</resources>
